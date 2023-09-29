@@ -1,4 +1,4 @@
-Video fingerprinting using perpetual hash
+Video fingerprinting using perceptual hash
 
 Requirements:
 Python: The script is written in Python, so you'll need a Python interpreter. Typically, Python 3.x is recommended.
